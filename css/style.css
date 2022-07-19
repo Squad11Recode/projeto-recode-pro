@@ -58,9 +58,25 @@
 
 footer {
     text-align: center;
+    font-size: 0.8rem;
     margin-top: -10px;
     margin-bottom: -10px;
 }
+
+#rcd-about {
+    margin-bottom: 2rem;
+}
+
+#rcd-about img {
+    width: 50%;
+    margin: 2rem 25% 5% 25%;
+}
+
+#rcd-about h2, #rcd-about p {
+    width: 70%;
+    margin: 0 15% 0 15%;
+}
+
 
 .rcd-equipe {
     background-color: #E9F3FE;
